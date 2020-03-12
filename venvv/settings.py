@@ -26,7 +26,7 @@ SECRET_KEY = 'czwk^r5^ch+6a13mwaj3l56_4q0s%n!blg0e*(d)lry=8dog$n'
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+#'127.0.0.1', '.pythonanywhere.com'
 
 # Application definition
 
@@ -105,7 +105,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'ru-ru'
 
-TIME_ZONE = 'Asia/Almaty'
+TIME_ZONE = 'Europe/Moscow'
 
 USE_I18N = True
 
